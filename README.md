@@ -6,3 +6,5 @@ Added into Github
 
 
 push
+
+pull
