@@ -4,7 +4,6 @@ I am pretty much excited by using and get my hands on Git and Github simultaneou
 
 Added into Github
 
+## Local changelog
 
-push
-
-pull
+1. Open Readme file first then put some changes into.
