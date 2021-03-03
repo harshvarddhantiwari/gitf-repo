@@ -4,7 +4,8 @@ I am pretty much excited by using and get my hands on Git and Github simultaneou
 
 Added into Github
 
+## Local Development
 
-push
+1. Open file1.txt to check out more.
 
-pull
+2. Doing something incredible
